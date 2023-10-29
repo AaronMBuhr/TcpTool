@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TcpTool": {
+      "commandName": "Project",
+      "commandLineArgs": "r 2000"
+    }
+  }
+}
